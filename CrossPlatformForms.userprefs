@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{CED13CCA-5586-4C4E-8FA4-B03642119B99}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrossPlatformForms/CrossPlatformFormsPage.xaml.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="CrossPlatformForms/App.xaml.cs" Line="13" Column="3" />
+      <File FileName="CrossPlatformForms/App.xaml" Line="1" Column="1" />
+      <File FileName="CrossPlatformForms/NamePage.cs" Line="26" Column="34" />
+      <File FileName="CrossPlatformForms/CrossPlatformFormsPage.xaml" Line="1" Column="1" />
+      <File FileName="CrossPlatformForms/CrossPlatformFormsPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CrossPlatformForms.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

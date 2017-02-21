@@ -1,0 +1,12 @@
+/Users/dannguyen/Google Drive/Code/CrossPlatformForms/CrossPlatformForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/dannguyen/Google Drive/Code/CrossPlatformForms/CrossPlatformForms/obj/Debug/CrossPlatformForms.App.xaml
+/Users/dannguyen/Google Drive/Code/CrossPlatformForms/CrossPlatformForms/obj/Debug/CrossPlatformForms.CrossPlatformFormsPage.xaml
+/Users/dannguyen/Google Drive/Code/CrossPlatformForms/CrossPlatformForms/obj/Debug/CrossPlatformForms.App.xaml.g.cs
+/Users/dannguyen/Google Drive/Code/CrossPlatformForms/CrossPlatformForms/obj/Debug/CrossPlatformForms.CrossPlatformFormsPage.xaml.g.cs
+/Users/dannguyen/Google Drive/Code/CrossPlatformForms/CrossPlatformForms/bin/Debug/CrossPlatformForms.dll.mdb
+/Users/dannguyen/Google Drive/Code/CrossPlatformForms/CrossPlatformForms/bin/Debug/CrossPlatformForms.dll
+/Users/dannguyen/Google Drive/Code/CrossPlatformForms/CrossPlatformForms/obj/Debug/CrossPlatformForms.dll
+/Users/dannguyen/Google Drive/Code/CrossPlatformForms/CrossPlatformForms/obj/Debug/CrossPlatformForms.dll.mdb
+/Users/dannguyen/Google Drive/Code/CrossPlatformForms/CrossPlatformForms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/dannguyen/Google Drive/Code/CrossPlatformForms/CrossPlatformForms/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/dannguyen/Google Drive/Code/CrossPlatformForms/CrossPlatformForms/bin/Debug/Xamarin.Forms.Xaml.dll
