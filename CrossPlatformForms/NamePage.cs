@@ -43,6 +43,13 @@ namespace CrossPlatformForms
 
 			this.Content = stackLayout;
 
+			submitName.Clicked += delegate {
+				submitName.Clicked += async (sender, e) =>
+				{
+					await DisplayAlert("Name", firstName.Text, "OK");
+				};
+
+			};
 
 		}
 	}
